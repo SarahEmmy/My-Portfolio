@@ -1,8 +1,3 @@
-/**
-
-
-*/
-
 (function( window, $, undefined ){
 
   'use strict';
@@ -44,28 +39,6 @@
 
   var transformProp = getStyleProperty('transform'),
       transitionProp = getStyleProperty('transitionProperty');
-
-
-  // ========================= miniModernizr ===============================
-  // <3<3<3 and thanks to Faruk and Paul for doing the heavy lifting
-
-  /*!
-   * Modernizr v1.6ish: miniModernizr for Isotope
-   * http://www.modernizr.com
-   *
-   * Developed by:
-   * - Faruk Ates  http://farukat.es/
-   * - Paul Irish  http://paulirish.com/
-   *
-   * Copyright (c) 2009-2010
-   * Dual-licensed under the BSD or MIT licenses.
-   * http://www.modernizr.com/license/
-   */
-
-  /*
-   * This version whittles down the script just to check support for
-   * CSS transitions, transforms, and 3D transforms.
-  */
 
   var tests = {
     csstransforms: function() {
@@ -124,16 +97,6 @@
     // Add the new classes to the <html> element.
     $('html').addClass( classes );
   }
-
-
-  // ========================= isoTransform ===============================
-
-  /**
-   *  provides hooks for .css({ scale: value, translate: [x, y] })
-   *  Progressively enhanced CSS transforms
-   *  Uses hardware accelerated 3D transforms for Safari
-   *  or falls back to 2D transforms.
-   */
 
   if ( Modernizr.csstransforms ) {
 
