@@ -351,9 +351,10 @@ p {
 ---------------------------------*/
 
 .top_cont_outer {
-    background: #3498db;
+    background: #ED5441;
     position: relative;
-	background:url(img/slide-1.jpg) top center no-repeat;
+	
+    background: #CE1139;
 	height:650px;
 }
 
