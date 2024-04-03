@@ -351,10 +351,10 @@ p {
 ---------------------------------*/
 
 .top_cont_outer {
-    background: #ED5441;
+    background: #3498db;
     position: relative;
 	background:url(img/slide-1.jpg) top center no-repeat;
-	height:150px;
+	height:650px;
 }
 
 .hero_section {
