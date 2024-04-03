@@ -55,6 +55,6 @@ link to slide : https://docs.google.com/presentation/d/1Yu_Ew6DFoBCj_ovkSU6C0EVf
 
 correction Link - https://intranet.alxswe.com/corrections/23758414/correct 
 
-link to website: https://sarahemmy.github.io/My-Portfolio/#
+link to website: https://sarahemmy.github.io/My-Portfolio/
 
 
