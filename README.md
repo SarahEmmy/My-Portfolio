@@ -51,3 +51,8 @@ Smooth Scrolling
 ![image](https://github.com/SarahEmmy/My-Portfolio/assets/122871970/5585510e-9848-4c58-a628-fb5af92b9636)
 
 Contact Form
+link to slide : https://docs.google.com/presentation/d/1Yu_Ew6DFoBCj_ovkSU6C0EVfW3x1Xr3DjdTX-imBy2E/edit?usp=sharing
+
+correction Link - https://intranet.alxswe.com/corrections/23758414/correct 
+
+
