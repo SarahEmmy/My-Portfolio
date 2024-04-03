@@ -1,9 +1,3 @@
-/*
-Author: http://webthemez.com
-Note: Donate to remove backlink/credits in the footer(webthemez.com)--
-Any help: webthemez@gmail.com
-Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
-*/
 @charset "utf-8";
 @import url(http://fonts.googleapis.com/css?family=Raleway:800,700,400);
 @import url(http://fonts.googleapis.com/css?family=Signika:400,600);
@@ -123,9 +117,6 @@ a, a:hover, a:active {
 	font-size: 68.5%;
 }
 
-/*---------------*/
-/***** Oscar *****/
-/*---------------*/
 
 figure.effect-oscar {
 	background: -webkit-linear-gradient(45deg, #22682a 0%, #9b4a1b 40%, #3a342a 100%);
@@ -364,7 +355,7 @@ p {
     position: relative;
 	
     background: #CE1139;
-	height:650px;
+	height:300px;
 }
 
 .hero_section {
