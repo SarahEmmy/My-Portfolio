@@ -396,7 +396,7 @@
                 var originalHeight = container.style.height,
                 originalScrollTop = container.scrollTop;
 
-                container.style.height = '3000px';
+                container.style.height = '2000px';
                 container.scrollTop = 500;
 
                 var elementTop = el.getBoundingClientRect().top;
