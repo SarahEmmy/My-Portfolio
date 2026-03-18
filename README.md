@@ -1,7 +1,25 @@
 # My-Portfolio
-Hi there, 🔭 I’m currently working as a Frontend Software Engineer. 🌼 Looking for jobs remotely or Onsite as a SE. 😄 I'm balanced, observant, object oriented, critical Analyzing thinker
+Hi there, 🔭 I’m a frontend Software Engineer. 🌼 Looking for jobs remotely or Onsite as a SE. 😄 I'm balanced, observant, object oriented, critical Analyzing thinker
 
-Responsive Design forcused on frontend only using boostrap
+💻 With experience as an ICT Consultant and Frontend Software Engineer, I am highly comfortable navigating digital tools, platforms, and communication systems. This makes it easy for me to adapt to digital support technologies and deliver efficient, tech-enabled service.
+
+😄 I am a calm, observant, and solution-oriented professional with strong interpersonal skills. I pay attention to details, listen actively, and focus on resolving customer concerns effectively and professionally.
+
+🚀 My technical background gives me an added advantage, I quickly understand systems, troubleshoot basic issues, and can upscale rapidly when introduced to new tools or platforms.
+
+📞 I am confident in handling customer/User interactions across different channels, including CRMs, email, chat, and phone, ensuring clear communication and a positive customer experience at all times.
+
+✨ What I Bring:
+
+Strong communication and problem-solving skills
+
+Fast adaptation to new technologies and tools
+
+Patience and professionalism in handling customers
+
+Ability to simplify technical issues for non-technical users
+
+Commitment to delivering excellent customer experience
 
 my portfolio project is for any profissional designer or developer in IT industry, such as webdesigner, web developr, UX/UI Developer, Programmer�s portfolio. This is a responsive webpage anyone can use to showcase your work and CV or Resume. This is built on Bootstrap html5 css3 which gives it flexibilty.
 
